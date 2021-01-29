@@ -1,4 +1,9 @@
  # :gift: Placement-Preparation- Complete Roadmap :gift:
+ 
+<br><br> 
+# 🚀 Getting Started
+<br>
+
 This repository consists of all the necessary questions and their solutions required for cracking the coding rounds and technical interviews at tech companies as well. And this content will surely help you to crack your dream company. This material has been taken and combined from various different sources.
 It will be a complete roadmap for your placement prep.
 
@@ -16,6 +21,7 @@ Let me know,if you wish to add anything else to this content.
 
 ***NOTE: The links to the solutions in the pdf are provided as well, but they will work only after you download the file to your machine***
 <br><br>
+
 
 # 🏆 What do I need to prepare for the interviews?
 
@@ -150,7 +156,7 @@ of detail about your favorite programming language.
 
 # 🏆 Projects:
 
-:heavy_check_mark: For examples of project you can check my other repositories [here](https://github.com/anushka23g) , Will be adding more projects soon!
+:heavy_check_mark: For examples of project you can check my other repositories [here](https://github.com/anushka23g?tab=repositories) , Will be adding more projects soon!
 <br>
 
 :heavy_check_mark: If you are a beginner and wish to learn Data Structures and Algorithms in a fun way :stuck_out_tongue_closed_eyes: , try working on [this](https://github.com/anushka23g/Learning-Made-Easy) project, It will help you clear a lot of concepts, make you confident about your skills and you'll gain better knowledge of DSA. <br>
